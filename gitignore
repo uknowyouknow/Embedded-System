@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C binaries & objects
+*.o
+*.obj
+*.so
+*.dylib
+
+# Environments & IDEs
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+
+# System & Hardware / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
